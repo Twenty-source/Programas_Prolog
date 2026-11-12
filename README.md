@@ -121,3 +121,4 @@ respuestas.
 |---|---|
 | `cadena_alimenticia.pl` | Base de conocimiento: hechos y reglas |
 | `README.md` | Este documento |
+| `Asesor_Academico/` | Proyecto integrador de la Unidad 4: asesor académico (tiene su propio README) |
